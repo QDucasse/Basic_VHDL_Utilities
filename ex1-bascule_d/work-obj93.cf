@@ -1,0 +1,7 @@
+v 3
+file . "bascule_d_tb.vhd" "20190311101926.000" "20190311112038.154":
+  entity bascule_d_tb at 6( 275) + 0 on 85;
+  architecture bhv of bascule_d_tb at 13( 381) + 0 on 86;
+file . "bascule_d.vhd" "20190311082502.000" "20190311112038.144":
+  entity bascule_d at 5( 158) + 0 on 83;
+  architecture using_rising_edge of bascule_d at 17( 364) + 0 on 84;

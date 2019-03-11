@@ -1,0 +1,7 @@
+v 3
+file . "bascule_d_gen.vhd" "20190311102931.000" "20190311112932.826":
+  entity bascule_d_gen at 5( 162) + 0 on 103;
+  architecture using_rising_edge of bascule_d_gen at 19( 493) + 0 on 104;
+file . "bascule_d_gen_tb.vhd" "20190311102907.000" "20190311112932.838":
+  entity bascule_d_gen_tb at 6( 275) + 0 on 105;
+  architecture bhv of bascule_d_gen_tb at 13( 385) + 0 on 106;

@@ -1,0 +1,7 @@
+v 3
+file . "counter_enable.vhd" "20190311102432.000" "20190311112508.334":
+  entity counter_enable at 5( 163) + 0 on 61;
+  architecture rtl of counter_enable at 18( 422) + 0 on 62;
+file . "counter_enable_tb.vhd" "20190311102506.000" "20190311112508.344":
+  entity counter_enable_tb at 6( 275) + 0 on 63;
+  architecture bhv of counter_enable_tb at 13( 386) + 0 on 64;
