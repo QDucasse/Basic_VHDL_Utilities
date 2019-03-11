@@ -13,5 +13,5 @@ Counter increasing while enabled and having the MSB of the value as an output. T
 UAL allowing basic operations between two integers. Supported operations are +, -, *, and, or, not, xor. The benchmark uses 2 and 3 as inputs and tests every operation.
 
 ## Exercise 5:
-128-address RAM. Each address is 8-bits wide. The benchmark writes in each address every 10 cycles.
+128-address RAM. Each address is 8-bits wide. The benchmark writes in each address every 10 cycles and reads it right after by writing it in dataout.
 
