@@ -18,3 +18,6 @@ Exercise 5:
 128-address RAM. Each address is 8-bits wide. 
 The benchmark writes in each address every 10 cycles.
 
+Exercise 6:
+VHDL utilities used in the blinking led: timer and the global architecture. The timer reuses the previous counter and allows through the MSB to control the period of the led. The tcl and xdc files have not been changed because of the lack of concrete use of the FPGA.
+
